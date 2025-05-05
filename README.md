@@ -1,4 +1,4 @@
-> Software should make the job easier, not harder.
+> Technology should make the job easier, not harder.
 
 I code with the phrase above at the forefront of my mind. As a developer I only have to write it once, but the user has to use what I write over and over. It may be harder for me to write it, but if what I write makes lives easier it's worth it. I enjoy using open source products and always enjoy when I can give back the community.
 
